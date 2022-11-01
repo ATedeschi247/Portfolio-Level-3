@@ -5,3 +5,6 @@ html, body {
 nav {
   margin-bottom: 0px;
 }
+.social-links {
+  display: none;
+}
