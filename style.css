@@ -8,3 +8,7 @@ nav {
 .social-links {
   display: none;
 }
+div.skills-content div.col-lg-12 {
+  padding-left: 50px;
+  padding-right: 50px;
+}
