@@ -19,8 +19,12 @@ function konamiCode(event) {
   }
   if(i == 10) {
     window.location.href = 'https://youtu.be/dQw4w9WgXcQ';
+    i = 0;
+    j = 0;
   }
   if(j == 10) {
     window.location.href = 'https://youtu.be/hw_pwSKDGos';
+    i = 0;
+    j = 0;
   }
 }
